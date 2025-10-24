@@ -1,0 +1,768 @@
+{
+  "chunks": [
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 30.0,
+      "end": 32.0,
+      "text": " we will talk about concepts and functionality"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 32.0,
+      "end": 34.0,
+      "text": " we have added some buttons here"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 34.0,
+      "end": 36.0,
+      "text": " we will click on uppercase 1, uppercase 2"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 36.0,
+      "end": 38.0,
+      "text": " we want to get a line above it"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 38.0,
+      "end": 40.0,
+      "text": " so that we can see that the task is done"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 40.0,
+      "end": 42.0,
+      "text": " we will click on uppercase all"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 42.0,
+      "end": 44.0,
+      "text": " we have to add that functionality"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 44.0,
+      "end": 46.0,
+      "text": " we have to make a change in our to-dos"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 46.0,
+      "end": 48.0,
+      "text": " our object is stored in to-dos"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 48.0,
+      "end": 50.0,
+      "text": " we will set a new key value in it"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 50.0,
+      "end": 52.0,
+      "text": " which will be called isDone"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 52.0,
+      "end": 54.0,
+      "text": " this will tell us if the task is done"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 54.0,
+      "end": 56.0,
+      "text": " or not"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 56.0,
+      "end": 58.0,
+      "text": " we will set the value to false"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 58.0,
+      "end": 60.0,
+      "text": " when we add a new task"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 60.0,
+      "end": 62.0,
+      "text": " the value of isDone will be set to false"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 62.0,
+      "end": 64.0,
+      "text": " so now for all the to-do"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 64.0,
+      "end": 66.0,
+      "text": " we know that the isDone value will be set to false"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 66.0,
+      "end": 68.0,
+      "text": " we can verify it"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 68.0,
+      "end": 70.0,
+      "text": " we can inspect it"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 70.0,
+      "end": 72.0,
+      "text": " we have a single to-do"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 72.0,
+      "end": 74.0,
+      "text": " we have the task and we also have isDone property"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 74.0,
+      "end": 76.0,
+      "text": " we have added a new task, eat"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 76.0,
+      "end": 78.0,
+      "text": " we have a new value in the state"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 78.0,
+      "end": 80.0,
+      "text": " in which isDone is false"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 80.0,
+      "end": 82.0,
+      "text": " we have to use this function"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 82.0,
+      "end": 84.0,
+      "text": " which we have already defined"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 84.0,
+      "end": 86.0,
+      "text": " uppercase 1"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 86.0,
+      "end": 88.0,
+      "text": " now we will name it"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 88.0,
+      "end": 90.0,
+      "text": " mark as done"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 90.0,
+      "end": 92.0,
+      "text": " we have named it mark as done"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 92.0,
+      "end": 94.0,
+      "text": " we will copy it here"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 94.0,
+      "end": 96.0,
+      "text": " mark as done will be here"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 96.0,
+      "end": 98.0,
+      "text": " we will write mark as done"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 98.0,
+      "end": 100.0,
+      "text": " this is done"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 100.0,
+      "end": 102.0,
+      "text": " but if we click on mark as done"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 102.0,
+      "end": 104.0,
+      "text": " it will be converted to uppercase"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 104.0,
+      "end": 106.0,
+      "text": " but we want to set it to true"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 106.0,
+      "end": 108.0,
+      "text": " instead of uppercase our task"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 108.0,
+      "end": 110.0,
+      "text": " we want to set it to true"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 110.0,
+      "end": 112.0,
+      "text": " we have to make a simple change"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 112.0,
+      "end": 114.0,
+      "text": " we will refresh it"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 114.0,
+      "end": 116.0,
+      "text": " we have added a task"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 116.0,
+      "end": 118.0,
+      "text": " now we will click on mark as done"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 118.0,
+      "end": 120.0,
+      "text": " our state should change"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 120.0,
+      "end": 122.0,
+      "text": " we did the first task, now state should change to true"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 122.0,
+      "end": 124.0,
+      "text": " we will do the eat task"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 124.0,
+      "end": 126.0,
+      "text": " mark as done will be changed to true"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 126.0,
+      "end": 128.0,
+      "text": " we want to change it"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 128.0,
+      "end": 130.0,
+      "text": " to change it we can use style"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 130.0,
+      "end": 132.0,
+      "text": " we can give style to our task"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 132.0,
+      "end": 134.0,
+      "text": " it should be dependent upon some condition"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 134.0,
+      "end": 136.0,
+      "text": " we want to pass this style"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 136.0,
+      "end": 138.0,
+      "text": " in the case of style"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 138.0,
+      "end": 140.0,
+      "text": " we want to set the text decoration line"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 140.0,
+      "end": 142.0,
+      "text": " to line through"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 142.0,
+      "end": 144.0,
+      "text": " we want to set it to line through"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 144.0,
+      "end": 146.0,
+      "text": " in other cases we want to keep it empty"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 146.0,
+      "end": 148.0,
+      "text": " so we added this value in style"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 148.0,
+      "end": 150.0,
+      "text": " if the value of is done is true"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 150.0,
+      "end": 152.0,
+      "text": " then the line will be in text decoration line"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 152.0,
+      "end": 154.0,
+      "text": " and in other cases it will be empty"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 154.0,
+      "end": 156.0,
+      "text": " we added it in style"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 156.0,
+      "end": 158.0,
+      "text": " we can play with color"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 158.0,
+      "end": 160.0,
+      "text": " we can't directly access this is done property"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 160.0,
+      "end": 162.0,
+      "text": " it is available in todo"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 162.0,
+      "end": 164.0,
+      "text": " we have to do todo.isdone"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 164.0,
+      "end": 166.0,
+      "text": " finally we have todo list"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 166.0,
+      "end": 168.0,
+      "text": " this is the first element"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 168.0,
+      "end": 170.0,
+      "text": " if I add eat, this is the second element"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 170.0,
+      "end": 172.0,
+      "text": " we have to do todo"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 172.0,
+      "end": 174.0,
+      "text": " we can see immediate changes"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 174.0,
+      "end": 176.0,
+      "text": " we can mark as done"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 176.0,
+      "end": 178.0,
+      "text": " now we have to implement"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 178.0,
+      "end": 180.0,
+      "text": " this uppercase all to mark all as done"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 180.0,
+      "end": 182.0,
+      "text": " we will change its name to mark all done"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 182.0,
+      "end": 184.0,
+      "text": " and copy it"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 184.0,
+      "end": 186.0,
+      "text": " paste it here"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 186.0,
+      "end": 188.0,
+      "text": " and we will give different name to this button"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 188.0,
+      "end": 190.0,
+      "text": " mark all as done"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 190.0,
+      "end": 192.0,
+      "text": " we want to mark the is done as true"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 192.0,
+      "end": 194.0,
+      "text": " instead of uppercase the task"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 194.0,
+      "end": 196.0,
+      "text": " we can add some task"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 196.0,
+      "end": 198.0,
+      "text": " we added eat, drink, code, walk"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 198.0,
+      "end": 200.0,
+      "text": " we can mark individual task"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 200.0,
+      "end": 202.0,
+      "text": " if we want to mark all"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 202.0,
+      "end": 204.0,
+      "text": " we will click this button"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 204.0,
+      "end": 206.0,
+      "text": " we can implement our functionality"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 206.0,
+      "end": 208.0,
+      "text": " in todo list"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 208.0,
+      "end": 210.0,
+      "text": " we can mark our task using buttons"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 210.0,
+      "end": 212.0,
+      "text": " we can change its background color"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 212.0,
+      "end": 214.0,
+      "text": " we can make these buttons small"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 214.0,
+      "end": 216.0,
+      "text": " we can use index.css file"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 216.0,
+      "end": 218.0,
+      "text": " to make our todo list more impressive"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 218.0,
+      "end": 220.0,
+      "text": " we have used all react related components"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 220.0,
+      "end": 222.0,
+      "text": " we have written many code in todo list"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 222.0,
+      "end": 224.0,
+      "text": " generally we don't structure react components"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 224.0,
+      "end": 226.0,
+      "text": " we use different concepts"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 226.0,
+      "end": 228.0,
+      "text": " we use different design patterns"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 228.0,
+      "end": 230.0,
+      "text": " we will learn these concepts frequently"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 230.0,
+      "end": 232.0,
+      "text": " in this section"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 232.0,
+      "end": 234.0,
+      "text": " we have 4 concepts in react"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 234.0,
+      "end": 236.0,
+      "text": " one is component"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 236.0,
+      "end": 238.0,
+      "text": " one is props"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 238.0,
+      "end": 240.0,
+      "text": " one is state"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 240.0,
+      "end": 242.0,
+      "text": " we can learn many different concepts"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 242.0,
+      "end": 244.0,
+      "text": " we will learn these concepts"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 244.0,
+      "end": 246.0,
+      "text": " in this section"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "80 #p8.mp4",
+      "start": 246.0,
+      "end": 248.0,
+      "text": " we will learn more complex concepts"
+    }
+  ],
+  "text": " we will talk about concepts and functionality we have added some buttons here we will click on uppercase 1, uppercase 2 we want to get a line above it so that we can see that the task is done we will click on uppercase all we have to add that functionality we have to make a change in our to-dos our object is stored in to-dos we will set a new key value in it which will be called isDone this will tell us if the task is done or not we will set the value to false when we add a new task the value of isDone will be set to false so now for all the to-do we know that the isDone value will be set to false we can verify it we can inspect it we have a single to-do we have the task and we also have isDone property we have added a new task, eat we have a new value in the state in which isDone is false we have to use this function which we have already defined uppercase 1 now we will name it mark as done we have named it mark as done we will copy it here mark as done will be here we will write mark as done this is done but if we click on mark as done it will be converted to uppercase but we want to set it to true instead of uppercase our task we want to set it to true we have to make a simple change we will refresh it we have added a task now we will click on mark as done our state should change we did the first task, now state should change to true we will do the eat task mark as done will be changed to true we want to change it to change it we can use style we can give style to our task it should be dependent upon some condition we want to pass this style in the case of style we want to set the text decoration line to line through we want to set it to line through in other cases we want to keep it empty so we added this value in style if the value of is done is true then the line will be in text decoration line and in other cases it will be empty we added it in style we can play with color we can't directly access this is done property it is available in todo we have to do todo.isdone finally we have todo list this is the first element if I add eat, this is the second element we have to do todo we can see immediate changes we can mark as done now we have to implement this uppercase all to mark all as done we will change its name to mark all done and copy it paste it here and we will give different name to this button mark all as done we want to mark the is done as true instead of uppercase the task we can add some task we added eat, drink, code, walk we can mark individual task if we want to mark all we will click this button we can implement our functionality in todo list we can mark our task using buttons we can change its background color we can make these buttons small we can use index.css file to make our todo list more impressive we have used all react related components we have written many code in todo list generally we don't structure react components we use different concepts we use different design patterns we will learn these concepts frequently in this section we have 4 concepts in react one is component one is props one is state we can learn many different concepts we will learn these concepts in this section we will learn more complex concepts"
+}

@@ -1,0 +1,495 @@
+{
+  "chunks": [
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 0.0,
+      "end": 2.0,
+      "text": " we can use unsigned with numbers"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 2.0,
+      "end": 4.0,
+      "text": " what does unsigned mean?"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 4.0,
+      "end": 6.0,
+      "text": " let's suppose we have this range of tiny int"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 6.0,
+      "end": 8.0,
+      "text": " we can store numbers from 128 to 127"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 8.0,
+      "end": 10.0,
+      "text": " if we try to store 129 in tiny int"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 10.0,
+      "end": 12.0,
+      "text": " it won't be possible"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 12.0,
+      "end": 14.0,
+      "text": " if we try to store 128 in it, it won't be possible"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 14.0,
+      "end": 16.0,
+      "text": " because maximum limit is this much"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 16.0,
+      "end": 18.0,
+      "text": " but if we know that we have to store only 200 to 200"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 18.0,
+      "end": 20.0,
+      "text": " then we can use integer"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 20.0,
+      "end": 22.0,
+      "text": " there is another way to do this"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 22.0,
+      "end": 24.0,
+      "text": " let's suppose our column is named number"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 24.0,
+      "end": 26.0,
+      "text": " and we write that this is going to be of tiny int type"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 26.0,
+      "end": 28.0,
+      "text": " and with tiny int, unsigned is going to be of tiny int"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 28.0,
+      "end": 30.0,
+      "text": " so we can store only positive values"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 30.0,
+      "end": 32.0,
+      "text": " so when we want to store only positive values"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 32.0,
+      "end": 34.0,
+      "text": " then the range of negative numbers"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 34.0,
+      "end": 36.0,
+      "text": " will be 128"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 36.0,
+      "end": 38.0,
+      "text": " that range will go to positive numbers"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 38.0,
+      "end": 40.0,
+      "text": " so it will be range from 0 to 255"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 40.0,
+      "end": 42.0,
+      "text": " so we can store 256 numbers in tiny int"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 42.0,
+      "end": 44.0,
+      "text": " if we say that we want to store negative numbers"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 44.0,
+      "end": 46.0,
+      "text": " then we have to store positive"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 46.0,
+      "end": 48.0,
+      "text": " so the range of negative numbers will increase"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 48.0,
+      "end": 50.0,
+      "text": " so we can increase the range of our numbers"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 50.0,
+      "end": 52.0,
+      "text": " if we have only positive numbers"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 52.0,
+      "end": 54.0,
+      "text": " so let's see what data types we have to use to create our table"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 54.0,
+      "end": 56.0,
+      "text": " first we will come to our ID"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 56.0,
+      "end": 58.0,
+      "text": " if we have a number type then we will use int for ID"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 58.0,
+      "end": 60.0,
+      "text": " if our name is string type then we will use varcar"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 60.0,
+      "end": 62.0,
+      "text": " email is also string type"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 62.0,
+      "end": 64.0,
+      "text": " so we can use anything, we can use our characters"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 64.0,
+      "end": 66.0,
+      "text": " we can use dot, special characters"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 66.0,
+      "end": 68.0,
+      "text": " so we will use varcar for this"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 68.0,
+      "end": 70.0,
+      "text": " then we can use int for both followers and following"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 70.0,
+      "end": 72.0,
+      "text": " now we will write this with ID"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 72.0,
+      "end": 74.0,
+      "text": " with name we will write varcar"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 74.0,
+      "end": 76.0,
+      "text": " what is the size of varcar"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 76.0,
+      "end": 78.0,
+      "text": " maximum name we will take is 30"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 78.0,
+      "end": 80.0,
+      "text": " let's separate all of them"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 80.0,
+      "end": 82.0,
+      "text": " because our email can be long in size"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 82.0,
+      "end": 84.0,
+      "text": " let's make it 50"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 84.0,
+      "end": 86.0,
+      "text": " so we can create our table"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 86.0,
+      "end": 88.0,
+      "text": " so we have covered creation of table"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 88.0,
+      "end": 90.0,
+      "text": " column name and data type"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 90.0,
+      "end": 92.0,
+      "text": " we also have constraints"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 92.0,
+      "end": 94.0,
+      "text": " which we can apply on our columns"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 94.0,
+      "end": 96.0,
+      "text": " next we will talk about constraints"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 96.0,
+      "end": 98.0,
+      "text": " constraints are our rules for data in the table"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 98.0,
+      "end": 100.0,
+      "text": " in table"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 100.0,
+      "end": 102.0,
+      "text": " we can define"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 102.0,
+      "end": 104.0,
+      "text": " what kind of data we are going to define"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 104.0,
+      "end": 106.0,
+      "text": " we can apply some rules on it"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 106.0,
+      "end": 108.0,
+      "text": " there are many rules"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 108.0,
+      "end": 110.0,
+      "text": " there are many constraints"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 110.0,
+      "end": 112.0,
+      "text": " but we will cover important constraints"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 112.0,
+      "end": 114.0,
+      "text": " for example if we create our user table"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 114.0,
+      "end": 116.0,
+      "text": " like here we have our instagram database"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 116.0,
+      "end": 118.0,
+      "text": " and we are creating our user table"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 118.0,
+      "end": 120.0,
+      "text": " in this we will add"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 120.0,
+      "end": 122.0,
+      "text": " ID"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 122.0,
+      "end": 124.0,
+      "text": " ID will come"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 124.0,
+      "end": 126.0,
+      "text": " in this we will add"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 126.0,
+      "end": 128.0,
+      "text": " ID"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 128.0,
+      "end": 130.0,
+      "text": " ID"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 130.0,
+      "end": 132.0,
+      "text": " ID"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 132.0,
+      "end": 134.0,
+      "text": " ID"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 134.0,
+      "end": 136.0,
+      "text": " ID"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 136.0,
+      "end": 138.0,
+      "text": " ID"
+    },
+    {
+      "number": "p3.mp4",
+      "title": "37 #p3.mp4",
+      "start": 138.0,
+      "end": 140.0,
+      "text": " ID"
+    }
+  ],
+  "text": " we can use unsigned with numbers what does unsigned mean? let's suppose we have this range of tiny int we can store numbers from 128 to 127 if we try to store 129 in tiny int it won't be possible if we try to store 128 in it, it won't be possible because maximum limit is this much but if we know that we have to store only 200 to 200 then we can use integer there is another way to do this let's suppose our column is named number and we write that this is going to be of tiny int type and with tiny int, unsigned is going to be of tiny int so we can store only positive values so when we want to store only positive values then the range of negative numbers will be 128 that range will go to positive numbers so it will be range from 0 to 255 so we can store 256 numbers in tiny int if we say that we want to store negative numbers then we have to store positive so the range of negative numbers will increase so we can increase the range of our numbers if we have only positive numbers so let's see what data types we have to use to create our table first we will come to our ID if we have a number type then we will use int for ID if our name is string type then we will use varcar email is also string type so we can use anything, we can use our characters we can use dot, special characters so we will use varcar for this then we can use int for both followers and following now we will write this with ID with name we will write varcar what is the size of varcar maximum name we will take is 30 let's separate all of them because our email can be long in size let's make it 50 so we can create our table so we have covered creation of table column name and data type we also have constraints which we can apply on our columns next we will talk about constraints constraints are our rules for data in the table in table we can define what kind of data we are going to define we can apply some rules on it there are many rules there are many constraints but we will cover important constraints for example if we create our user table like here we have our instagram database and we are creating our user table in this we will add ID ID will come in this we will add ID ID ID ID ID ID ID"
+}

@@ -1,0 +1,544 @@
+{
+  "chunks": [
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 0.0,
+      "end": 2.0,
+      "text": " Signup and logging works on the same platform."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 2.0,
+      "end": 4.0,
+      "text": " We can take multiple things during signup and logging."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 4.0,
+      "end": 6.0,
+      "text": " We don't store the password as it is."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 6.0,
+      "end": 8.0,
+      "text": " The password goes through our hashing function."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 8.0,
+      "end": 10.0,
+      "text": " The output hashing function is stored in our database."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 10.0,
+      "end": 12.0,
+      "text": " When we log in, the password that enters our user is passed through the hashing function."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 12.0,
+      "end": 14.0,
+      "text": " Then the output is matched with the same thing in the database."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 14.0,
+      "end": 16.0,
+      "text": " If it is matched, then it is not allowed to log in."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 16.0,
+      "end": 18.0,
+      "text": " Generally, all the websites that store the password,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 18.0,
+      "end": 20.0,
+      "text": " the password is matched and unmatched in this way."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 20.0,
+      "end": 22.0,
+      "text": " What exactly does hashing function mean?"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 22.0,
+      "end": 24.0,
+      "text": " Function body is used here, which means it is correct."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 24.0,
+      "end": 26.0,
+      "text": " The function we have seen in JavaScript is the same as hashing function."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 26.0,
+      "end": 28.0,
+      "text": " There are some important characteristics of hashing function."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 28.0,
+      "end": 30.0,
+      "text": " For example,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 30.0,
+      "end": 32.0,
+      "text": " if we talk about hashing function,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 32.0,
+      "end": 34.0,
+      "text": " then hashing function gives a fixed length output for every input."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 34.0,
+      "end": 36.0,
+      "text": " For example,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 36.0,
+      "end": 38.0,
+      "text": " this is my hashing function."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 38.0,
+      "end": 40.0,
+      "text": " If there is any input in it,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 40.0,
+      "end": 42.0,
+      "text": " then the output that comes,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 42.0,
+      "end": 44.0,
+      "text": " the output is basically the function that returns the value."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 44.0,
+      "end": 46.0,
+      "text": " The output will always be fixed length."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 46.0,
+      "end": 48.0,
+      "text": " If we know that the length should be of 50 characters,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 48.0,
+      "end": 50.0,
+      "text": " then the output will always be of 50 characters."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 50.0,
+      "end": 52.0,
+      "text": " So this is the characteristic of our hashing function."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 52.0,
+      "end": 54.0,
+      "text": " Secondly, our hashing functions are one-way functions and we cannot get input from output."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 54.0,
+      "end": 56.0,
+      "text": " Hashing functions are one-way functions."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 56.0,
+      "end": 58.0,
+      "text": " There are such functions from which you can get output from input."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 58.0,
+      "end": 60.0,
+      "text": " But you will never be able to get input from output."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 60.0,
+      "end": 62.0,
+      "text": " For example, if we have a string hello world,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 62.0,
+      "end": 64.0,
+      "text": " then we will get its hashed form."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 64.0,
+      "end": 66.0,
+      "text": " But if someone gives us only hashed form, then we will never be able to get the password hello world."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 66.0,
+      "end": 68.0,
+      "text": " That's why hashing function will be useful."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 68.0,
+      "end": 70.0,
+      "text": " For example, we have stored our hashed form in the database and a hacker hacks it."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 70.0,
+      "end": 72.0,
+      "text": " So this hashed form will go to him."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 72.0,
+      "end": 74.0,
+      "text": " But the important thing is that the hacker will never be able to get the original password from the hashed form."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 74.0,
+      "end": 76.0,
+      "text": " And this is the benefit of storing the hashed form."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 76.0,
+      "end": 78.0,
+      "text": " That's why there are many such websites where the database of millions of people has been leaked."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 78.0,
+      "end": 80.0,
+      "text": " For example, the data of Facebook has been leaked, the data of Dominos has been leaked."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 80.0,
+      "end": 82.0,
+      "text": " There are many such websites where the data is leaked."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 82.0,
+      "end": 84.0,
+      "text": " But we can't get the password because it is stored in the hashed form."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 84.0,
+      "end": 86.0,
+      "text": " And it is very difficult to get the original form from the hashed form."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 86.0,
+      "end": 88.0,
+      "text": " It is almost impossible because there are one-way functions."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 88.0,
+      "end": 90.0,
+      "text": " What are the examples of one-way functions?"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 90.0,
+      "end": 92.0,
+      "text": " One-way functions are such functions that we have seen many times in practical life."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 92.0,
+      "end": 94.0,
+      "text": " If we talk about modulus function, modulus function is a very known math function."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 94.0,
+      "end": 96.0,
+      "text": " What is the function of modulus function?"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 96.0,
+      "end": 98.0,
+      "text": " We write modulus function in this way."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 98.0,
+      "end": 100.0,
+      "text": " If x value is minus 5, then modulus of x will be 5."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 100.0,
+      "end": 102.0,
+      "text": " If x value is plus 5, then modulus of x will be 5."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 102.0,
+      "end": 104.0,
+      "text": " So modulus basically removes the sign and gives us the absolute value of the number."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 104.0,
+      "end": 106.0,
+      "text": " Now we can implement this modulus function in JavaScript."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 106.0,
+      "end": 108.0,
+      "text": " For example, if I go to console in my tab,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 108.0,
+      "end": 110.0,
+      "text": " now this modulus is not the remainder modulus,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 110.0,
+      "end": 112.0,
+      "text": " it is not absolute, but we call it absolute in JavaScript."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 112.0,
+      "end": 114.0,
+      "text": " So math.abs is our function."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 114.0,
+      "end": 116.0,
+      "text": " If I pass minus 5, then this function will give me the absolute value of minus 5,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 116.0,
+      "end": 118.0,
+      "text": " which is going to be 5."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 118.0,
+      "end": 120.0,
+      "text": " But if I pass 5 to the function, then also it will give me 5 in the output."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 120.0,
+      "end": 122.0,
+      "text": " So if someone tells me that I have 5 in the output, for example,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 122.0,
+      "end": 124.0,
+      "text": " I have 5 in the output of my modulus function,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 124.0,
+      "end": 126.0,
+      "text": " then I will be able to tell the input with 100% surety."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 126.0,
+      "end": 128.0,
+      "text": " I will never be able to tell the input with 100% surety because if the input is minus 5, then also 5 comes out."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 128.0,
+      "end": 130.0,
+      "text": " And if the input is 5, then also 5 comes out."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 130.0,
+      "end": 132.0,
+      "text": " So this is such a function where we can tell the output on the basis of input."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 132.0,
+      "end": 134.0,
+      "text": " But we can never tell the input by looking at the output."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 134.0,
+      "end": 136.0,
+      "text": " That is why our modulus function is our one-way function."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 136.0,
+      "end": 138.0,
+      "text": " So our modulus function is also one-way."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 138.0,
+      "end": 140.0,
+      "text": " Like this, we have a modulus function."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 140.0,
+      "end": 142.0,
+      "text": " If we take a modulus of any number,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 142.0,
+      "end": 144.0,
+      "text": " for example, if we take a remainder of number X with the value 3,"
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 144.0,
+      "end": 146.0,
+      "text": " now let's take a few examples."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 146.0,
+      "end": 148.0,
+      "text": " If we take a remainder of 3 modulo 3, then the output is 0."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 148.0,
+      "end": 150.0,
+      "text": " Our output of 6 modulo 3 will also be 0."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 150.0,
+      "end": 152.0,
+      "text": " Our output of 9 modulo 3 will also be 0."
+    },
+    {
+      "number": "p8.mp4",
+      "title": "65 #p8.mp4",
+      "start": 152.0,
+      "end": 154.0,
+      "text": " Our output of 12 modulo 3 will also be 0."
+    }
+  ],
+  "text": " Signup and logging works on the same platform. We can take multiple things during signup and logging. We don't store the password as it is. The password goes through our hashing function. The output hashing function is stored in our database. When we log in, the password that enters our user is passed through the hashing function. Then the output is matched with the same thing in the database. If it is matched, then it is not allowed to log in. Generally, all the websites that store the password, the password is matched and unmatched in this way. What exactly does hashing function mean? Function body is used here, which means it is correct. The function we have seen in JavaScript is the same as hashing function. There are some important characteristics of hashing function. For example, if we talk about hashing function, then hashing function gives a fixed length output for every input. For example, this is my hashing function. If there is any input in it, then the output that comes, the output is basically the function that returns the value. The output will always be fixed length. If we know that the length should be of 50 characters, then the output will always be of 50 characters. So this is the characteristic of our hashing function. Secondly, our hashing functions are one-way functions and we cannot get input from output. Hashing functions are one-way functions. There are such functions from which you can get output from input. But you will never be able to get input from output. For example, if we have a string hello world, then we will get its hashed form. But if someone gives us only hashed form, then we will never be able to get the password hello world. That's why hashing function will be useful. For example, we have stored our hashed form in the database and a hacker hacks it. So this hashed form will go to him. But the important thing is that the hacker will never be able to get the original password from the hashed form. And this is the benefit of storing the hashed form. That's why there are many such websites where the database of millions of people has been leaked. For example, the data of Facebook has been leaked, the data of Dominos has been leaked. There are many such websites where the data is leaked. But we can't get the password because it is stored in the hashed form. And it is very difficult to get the original form from the hashed form. It is almost impossible because there are one-way functions. What are the examples of one-way functions? One-way functions are such functions that we have seen many times in practical life. If we talk about modulus function, modulus function is a very known math function. What is the function of modulus function? We write modulus function in this way. If x value is minus 5, then modulus of x will be 5. If x value is plus 5, then modulus of x will be 5. So modulus basically removes the sign and gives us the absolute value of the number. Now we can implement this modulus function in JavaScript. For example, if I go to console in my tab, now this modulus is not the remainder modulus, it is not absolute, but we call it absolute in JavaScript. So math.abs is our function. If I pass minus 5, then this function will give me the absolute value of minus 5, which is going to be 5. But if I pass 5 to the function, then also it will give me 5 in the output. So if someone tells me that I have 5 in the output, for example, I have 5 in the output of my modulus function, then I will be able to tell the input with 100% surety. I will never be able to tell the input with 100% surety because if the input is minus 5, then also 5 comes out. And if the input is 5, then also 5 comes out. So this is such a function where we can tell the output on the basis of input. But we can never tell the input by looking at the output. That is why our modulus function is our one-way function. So our modulus function is also one-way. Like this, we have a modulus function. If we take a modulus of any number, for example, if we take a remainder of number X with the value 3, now let's take a few examples. If we take a remainder of 3 modulo 3, then the output is 0. Our output of 6 modulo 3 will also be 0. Our output of 9 modulo 3 will also be 0. Our output of 12 modulo 3 will also be 0."
+}

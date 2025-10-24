@@ -1,0 +1,411 @@
+{
+  "chunks": [
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 0.0,
+      "end": 3.0,
+      "text": " Now we have used sessions, next we will use flash"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 3.0,
+      "end": 5.0,
+      "text": " To use flash, we will take a basic example"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 5.0,
+      "end": 7.0,
+      "text": " As soon as we create a new listing, we will go to add new listing"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 7.0,
+      "end": 9.0,
+      "text": " As soon as we create a new listing, we will have a new message flash"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 9.0,
+      "end": 10.0,
+      "text": " That new listing is created"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 10.0,
+      "end": 12.0,
+      "text": " So first of all we will install the flash"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 12.0,
+      "end": 14.0,
+      "text": " npm i connect flash"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 14.0,
+      "end": 16.0,
+      "text": " and go to app.js and require"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 16.0,
+      "end": 18.0,
+      "text": " our connect flash"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 18.0,
+      "end": 20.0,
+      "text": " where we have used sessions"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 20.0,
+      "end": 22.0,
+      "text": " after this session line, we have to use app.js flash"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 22.0,
+      "end": 24.0,
+      "text": " One thing we have to note is that in our code"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 24.0,
+      "end": 27.0,
+      "text": " where we are requiring the routes, we have to use flash before that"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 27.0,
+      "end": 29.0,
+      "text": " because basically we are going to use this flash with the help of routes"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 29.0,
+      "end": 31.0,
+      "text": " So first we will use flash and then our routes will come into our code"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 31.0,
+      "end": 33.0,
+      "text": " So let's save this and clear this"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 33.0,
+      "end": 35.0,
+      "text": " What we will do is go to our listing.js route"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 35.0,
+      "end": 37.0,
+      "text": " and as soon as we create a new route, we will go to router.post"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 37.0,
+      "end": 39.0,
+      "text": " and as soon as this new route is created"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 39.0,
+      "end": 41.0,
+      "text": " we will create a new flash in the request"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 41.0,
+      "end": 43.0,
+      "text": " in which our success will be our key and message will be"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 43.0,
+      "end": 45.0,
+      "text": " let's call it new listing created"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 45.0,
+      "end": 47.0,
+      "text": " Let's save this and this new listing created"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 47.0,
+      "end": 49.0,
+      "text": " we want to flash this message as soon as we redirect"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 49.0,
+      "end": 51.0,
+      "text": " to the listing page"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 51.0,
+      "end": 53.0,
+      "text": " So where can we access this message? We can access it in our local variables"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 53.0,
+      "end": 55.0,
+      "text": " To access it, we will go to app.js"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 55.0,
+      "end": 57.0,
+      "text": " and here we will write the route path"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 57.0,
+      "end": 59.0,
+      "text": " and here we will create a middleware from the route"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 59.0,
+      "end": 61.0,
+      "text": " app.use, we will have a request and response"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 61.0,
+      "end": 63.0,
+      "text": " and in this middleware, we will create a success message"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 63.0,
+      "end": 65.0,
+      "text": " in response.locals"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 65.0,
+      "end": 67.0,
+      "text": " this is going to be request.flash"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 67.0,
+      "end": 69.0,
+      "text": " if any success message is sent"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 69.0,
+      "end": 71.0,
+      "text": " it will be saved in our response and local"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 71.0,
+      "end": 73.0,
+      "text": " and then we will call next"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 73.0,
+      "end": 75.0,
+      "text": " One thing we have to note is that we don't forget to call next"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 75.0,
+      "end": 77.0,
+      "text": " otherwise we will be stuck on this middleware"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 77.0,
+      "end": 79.0,
+      "text": " and next call will automatically match with the route"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 79.0,
+      "end": 81.0,
+      "text": " Now where can we use this success variable?"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 81.0,
+      "end": 83.0,
+      "text": " To use it, go to the listings and go to index.ejs"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 83.0,
+      "end": 85.0,
+      "text": " because it is redirected to listing.js"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 85.0,
+      "end": 87.0,
+      "text": " and we will go to all listings"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 87.0,
+      "end": 89.0,
+      "text": " and here we will use our success message"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 89.0,
+      "end": 91.0,
+      "text": " and save it"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 91.0,
+      "end": 93.0,
+      "text": " here we used app.js and flash and defined our middleware"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 93.0,
+      "end": 95.0,
+      "text": " and we flashed this message in the listings"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 95.0,
+      "end": 97.0,
+      "text": " and we printed this flashed message in index.js"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 97.0,
+      "end": 99.0,
+      "text": " Now we will come here and refresh"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 99.0,
+      "end": 101.0,
+      "text": " and we can create a new listing"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 101.0,
+      "end": 103.0,
+      "text": " we will call it sample listing"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 103.0,
+      "end": 105.0,
+      "text": " some description, price 2000"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 105.0,
+      "end": 107.0,
+      "text": " india jaipur ad"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 107.0,
+      "end": 109.0,
+      "text": " as soon as we added it, we came to the index page"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 109.0,
+      "end": 111.0,
+      "text": " and this new message flashed"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 111.0,
+      "end": 113.0,
+      "text": " if we refresh, this message will never come in the second time"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 113.0,
+      "end": 115.0,
+      "text": " so this is how we use our flash messages"
+    },
+    {
+      "number": "p6.mp4",
+      "title": "62 #p6.mp4",
+      "start": 115.0,
+      "end": 117.0,
+      "text": " which we have practically implemented here"
+    }
+  ],
+  "text": " Now we have used sessions, next we will use flash To use flash, we will take a basic example As soon as we create a new listing, we will go to add new listing As soon as we create a new listing, we will have a new message flash That new listing is created So first of all we will install the flash npm i connect flash and go to app.js and require our connect flash where we have used sessions after this session line, we have to use app.js flash One thing we have to note is that in our code where we are requiring the routes, we have to use flash before that because basically we are going to use this flash with the help of routes So first we will use flash and then our routes will come into our code So let's save this and clear this What we will do is go to our listing.js route and as soon as we create a new route, we will go to router.post and as soon as this new route is created we will create a new flash in the request in which our success will be our key and message will be let's call it new listing created Let's save this and this new listing created we want to flash this message as soon as we redirect to the listing page So where can we access this message? We can access it in our local variables To access it, we will go to app.js and here we will write the route path and here we will create a middleware from the route app.use, we will have a request and response and in this middleware, we will create a success message in response.locals this is going to be request.flash if any success message is sent it will be saved in our response and local and then we will call next One thing we have to note is that we don't forget to call next otherwise we will be stuck on this middleware and next call will automatically match with the route Now where can we use this success variable? To use it, go to the listings and go to index.ejs because it is redirected to listing.js and we will go to all listings and here we will use our success message and save it here we used app.js and flash and defined our middleware and we flashed this message in the listings and we printed this flashed message in index.js Now we will come here and refresh and we can create a new listing we will call it sample listing some description, price 2000 india jaipur ad as soon as we added it, we came to the index page and this new message flashed if we refresh, this message will never come in the second time so this is how we use our flash messages which we have practically implemented here"
+}

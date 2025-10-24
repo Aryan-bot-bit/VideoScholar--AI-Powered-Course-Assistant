@@ -1,0 +1,957 @@
+{
+  "chunks": [
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 0.0,
+      "end": 4.0,
+      "text": " even though I should not call it whatsapp because whatsapp will be very complex and it will have many features"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 4.0,
+      "end": 6.0,
+      "text": " and definitely we will not be able to complete it in a small lecture"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 6.0,
+      "end": 9.0,
+      "text": " developers have built it for many years but we can call it as our mini whatsapp"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 9.0,
+      "end": 12.0,
+      "text": " from here when we will do it then we will write response.render"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 12.0,
+      "end": 14.0,
+      "text": " what we will render in render is index.egs"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 14.0,
+      "end": 17.0,
+      "text": " index.egs is there and in this we will pass all our chats"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 17.0,
+      "end": 18.0,
+      "text": " so we will write save"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 18.0,
+      "end": 20.0,
+      "text": " now we will go to index.egs and all our chats are coming here"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 20.0,
+      "end": 22.0,
+      "text": " first we will write all chats"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 22.0,
+      "end": 24.0,
+      "text": " and now we will put a loop"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 24.0,
+      "end": 26.0,
+      "text": " for loop we will put a for loop in which we will put chat of let"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 26.0,
+      "end": 28.0,
+      "text": " chat of chats"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 28.0,
+      "end": 30.0,
+      "text": " so like this we will have individual chat"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 30.0,
+      "end": 32.0,
+      "text": " we will store individual chat in a div"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 32.0,
+      "end": 34.0,
+      "text": " now we will create a paragraph in div"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 34.0,
+      "end": 36.0,
+      "text": " so like this we will store our chats"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 36.0,
+      "end": 38.0,
+      "text": " so in div we will create a paragraph and in paragraph we will write from"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 38.0,
+      "end": 40.0,
+      "text": " and here let suppose I want to write my name"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 40.0,
+      "end": 42.0,
+      "text": " who has sent chat.from"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 42.0,
+      "end": 44.0,
+      "text": " this is our from part"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 44.0,
+      "end": 46.0,
+      "text": " in this way we will write our message chat.message"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 46.0,
+      "end": 48.0,
+      "text": " and in this way in a paragraph we will write who received"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 48.0,
+      "end": 50.0,
+      "text": " here we will write received by"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 50.0,
+      "end": 52.0,
+      "text": " chat.to"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 52.0,
+      "end": 54.0,
+      "text": " for now we will skip the date, we will see the date later"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 54.0,
+      "end": 56.0,
+      "text": " because when we use the date, formatting is used in the date"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 56.0,
+      "end": 58.0,
+      "text": " so we will deal with that later"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 58.0,
+      "end": 60.0,
+      "text": " for now we will focus only on our strings"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 60.0,
+      "end": 62.0,
+      "text": " this is our from, this is our chat, this is our message and this is our to"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 62.0,
+      "end": 64.0,
+      "text": " and this is our div, we can give a class to every div"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 64.0,
+      "end": 66.0,
+      "text": " which is going to be chat"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 66.0,
+      "end": 68.0,
+      "text": " and this message we will give a style"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 68.0,
+      "end": 70.0,
+      "text": " not so much extreme, but very basic style"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 70.0,
+      "end": 72.0,
+      "text": " so we can add this message in a div"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 72.0,
+      "end": 74.0,
+      "text": " and when we add this message in div, we can give a class to this div"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 74.0,
+      "end": 76.0,
+      "text": " which says message"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 76.0,
+      "end": 78.0,
+      "text": " we can call it message box, chat box, anything"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 78.0,
+      "end": 80.0,
+      "text": " we can call it chat, we call it message"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 80.0,
+      "end": 82.0,
+      "text": " so this is our for loop, now we have to keep it in EJS format"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 82.0,
+      "end": 84.0,
+      "text": " first we have to paste it here, for EJS we have to write less than percentage"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 84.0,
+      "end": 86.0,
+      "text": " and we will write less than percentage"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 86.0,
+      "end": 88.0,
+      "text": " and percentage greater than, we will save it"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 88.0,
+      "end": 90.0,
+      "text": " we will send a request here, refresh the chat"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 90.0,
+      "end": 92.0,
+      "text": " so we have all the chats, how are all the chats coming?"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 92.0,
+      "end": 94.0,
+      "text": " this is our first chat, which has from, message and received by"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 94.0,
+      "end": 96.0,
+      "text": " this is also from, message and received by"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 96.0,
+      "end": 98.0,
+      "text": " this is also from, message and received by"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 98.0,
+      "end": 100.0,
+      "text": " but it is not clear that it is a chat, we have strings"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 100.0,
+      "end": 102.0,
+      "text": " so we will add formatting in it, first of all"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 102.0,
+      "end": 104.0,
+      "text": " we will add a simple HR tag in every div"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 104.0,
+      "end": 106.0,
+      "text": " so that it gets separated from all the lines"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 106.0,
+      "end": 108.0,
+      "text": " now it looks like individual chat boxes"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 108.0,
+      "end": 110.0,
+      "text": " to add some styling, we will come to index.js"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 110.0,
+      "end": 112.0,
+      "text": " and here we can create a CSS file"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 112.0,
+      "end": 114.0,
+      "text": " to create a CSS file, we have to create a folder in Mongo3"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 114.0,
+      "end": 116.0,
+      "text": " which we will name public, in public folder"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 116.0,
+      "end": 118.0,
+      "text": " we can attach CSS and JS files and send it with our templates"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 118.0,
+      "end": 120.0,
+      "text": " so here we will create a new file, which we will name style.css"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 120.0,
+      "end": 122.0,
+      "text": " and style.css has some basic styles which we are going to add"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 122.0,
+      "end": 124.0,
+      "text": " first we will give a background color to our chat"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 124.0,
+      "end": 126.0,
+      "text": " so we will give a background color to our chat, let's give it Alice blue"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 126.0,
+      "end": 128.0,
+      "text": " so we will save it and refresh it, now this style.css"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 128.0,
+      "end": 130.0,
+      "text": " is not connected with our index.ejs, so to make a connection"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 130.0,
+      "end": 132.0,
+      "text": " here we will give a link, relation is equal to style sheet"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 132.0,
+      "end": 134.0,
+      "text": " and here we will put style.css in href"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 134.0,
+      "end": 136.0,
+      "text": " in fact, we will save and refresh it"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 136.0,
+      "end": 138.0,
+      "text": " now to attach this styling, we have to go to index.js"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 138.0,
+      "end": 140.0,
+      "text": " and here we will do app.use express"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 140.0,
+      "end": 142.0,
+      "text": " and here we will tell you where our static files are going to be"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 142.0,
+      "end": 144.0,
+      "text": " so to serve them we will write path.join"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 144.0,
+      "end": 146.0,
+      "text": " our directory name"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 146.0,
+      "end": 148.0,
+      "text": " and it will be served from our public folder"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 148.0,
+      "end": 150.0,
+      "text": " so we will save it"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 150.0,
+      "end": 152.0,
+      "text": " and refresh, as we refresh it, our blue color"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 152.0,
+      "end": 154.0,
+      "text": " will hide here"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 154.0,
+      "end": 156.0,
+      "text": " so our WhatsApp"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 156.0,
+      "end": 158.0,
+      "text": " will look like blue"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 158.0,
+      "end": 160.0,
+      "text": " and our message"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 160.0,
+      "end": 162.0,
+      "text": " will go inside style.css"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 162.0,
+      "end": 164.0,
+      "text": " so we will give a message block"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 164.0,
+      "end": 166.0,
+      "text": " message div"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 166.0,
+      "end": 168.0,
+      "text": " we will give it a background color"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 168.0,
+      "end": 170.0,
+      "text": " let's give it a background color of Dodger blue"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 170.0,
+      "end": 172.0,
+      "text": " save it, refresh it"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 172.0,
+      "end": 174.0,
+      "text": " so this is our message"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 174.0,
+      "end": 176.0,
+      "text": " and we will give it a white color for its text"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 178.0,
+      "end": 180.0,
+      "text": " refresh, so this is our message"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 180.0,
+      "end": 182.0,
+      "text": " so we will leave the boxes"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 182.0,
+      "end": 184.0,
+      "text": " first of all we will give a margin"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 184.0,
+      "end": 186.0,
+      "text": " our body, we will give a margin from left"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 186.0,
+      "end": 188.0,
+      "text": " which is going to be 20 pixels"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 188.0,
+      "end": 190.0,
+      "text": " refresh, it came a little left"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 190.0,
+      "end": 192.0,
+      "text": " our chat, we will give it a padding"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 192.0,
+      "end": 194.0,
+      "text": " we will give 20 pixels, save and refresh"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 194.0,
+      "end": 196.0,
+      "text": " so individual, its padding is added around"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 196.0,
+      "end": 198.0,
+      "text": " 16 pixels, we will keep 16 pixels"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 198.0,
+      "end": 200.0,
+      "text": " so it came a little curved, it is not seen clearly"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 200.0,
+      "end": 202.0,
+      "text": " with a white background, but if you do it once on your system"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 202.0,
+      "end": 204.0,
+      "text": " it will be clearly seen, and also because"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 204.0,
+      "end": 206.0,
+      "text": " we don't have such big messages, we have such a big chat box"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 206.0,
+      "end": 208.0,
+      "text": " so we will give its display inline block"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 208.0,
+      "end": 210.0,
+      "text": " so first save and refresh, our inline is locked"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 210.0,
+      "end": 212.0,
+      "text": " so this is our first chat, second chat, third chat, fourth chat, fifth chat"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 212.0,
+      "end": 214.0,
+      "text": " so we have different chats, once in index.ej"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 214.0,
+      "end": 216.0,
+      "text": " here after every div, we will add a next line"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 216.0,
+      "end": 218.0,
+      "text": " in fact we will add two next lines, save and refresh"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 218.0,
+      "end": 220.0,
+      "text": " so in the next line, all our chats will come in a line wise format"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 220.0,
+      "end": 222.0,
+      "text": " we can keep our format different"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 222.0,
+      "end": 224.0,
+      "text": " we can create cards in the standard size"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 224.0,
+      "end": 226.0,
+      "text": " so in the standard size, we can put a circular image"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 226.0,
+      "end": 228.0,
+      "text": " and we can also put a circular image in the received by"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 228.0,
+      "end": 230.0,
+      "text": " which is shown on facebook, instagram"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 230.0,
+      "end": 232.0,
+      "text": " but we will not go into details, because we are talking about html cases"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 232.0,
+      "end": 234.0,
+      "text": " because I know that this chat will not look aesthetically pleasing"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 234.0,
+      "end": 236.0,
+      "text": " our design is not that good, because we are focusing on our back end databases"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 236.0,
+      "end": 238.0,
+      "text": " so this is our proper syntax of chat"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 238.0,
+      "end": 240.0,
+      "text": " in which our chats are"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 240.0,
+      "end": 242.0,
+      "text": " we can add padding in our message, let's give it a padding of 5 pixels"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 242.0,
+      "end": 244.0,
+      "text": " and 15 pixels, and also we will give it a border radius"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 244.0,
+      "end": 246.0,
+      "text": " save and refresh"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 246.0,
+      "end": 248.0,
+      "text": " so our chat will be shown in this way"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 248.0,
+      "end": 250.0,
+      "text": " so now from where we got this message"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 250.0,
+      "end": 252.0,
+      "text": " we also know who received this message"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 252.0,
+      "end": 254.0,
+      "text": " so we can write it in italic or bold"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 254.0,
+      "end": 256.0,
+      "text": " so let's go to index.edges"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 256.0,
+      "end": 258.0,
+      "text": " and here we will write the chat from"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 258.0,
+      "end": 260.0,
+      "text": " same thing for 2"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 260.0,
+      "end": 262.0,
+      "text": " so here also we will add our italic tag"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 262.0,
+      "end": 264.0,
+      "text": " and refresh"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 264.0,
+      "end": 266.0,
+      "text": " save and refresh"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 266.0,
+      "end": 268.0,
+      "text": " so this is from Rohit, received by Mohit"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 268.0,
+      "end": 270.0,
+      "text": " from Amit, received by Sumit"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 270.0,
+      "end": 272.0,
+      "text": " and you can create chats with any random messages"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 272.0,
+      "end": 274.0,
+      "text": " which will initialize the database"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 274.0,
+      "end": 276.0,
+      "text": " basically we have completed the route in which all the chats are shown"
+    },
+    {
+      "number": "p2.mp4",
+      "title": "46 #p2.mp4",
+      "start": 276.0,
+      "end": 278.0,
+      "text": " now let's move to our next route"
+    }
+  ],
+  "text": " even though I should not call it whatsapp because whatsapp will be very complex and it will have many features and definitely we will not be able to complete it in a small lecture developers have built it for many years but we can call it as our mini whatsapp from here when we will do it then we will write response.render what we will render in render is index.egs index.egs is there and in this we will pass all our chats so we will write save now we will go to index.egs and all our chats are coming here first we will write all chats and now we will put a loop for loop we will put a for loop in which we will put chat of let chat of chats so like this we will have individual chat we will store individual chat in a div now we will create a paragraph in div so like this we will store our chats so in div we will create a paragraph and in paragraph we will write from and here let suppose I want to write my name who has sent chat.from this is our from part in this way we will write our message chat.message and in this way in a paragraph we will write who received here we will write received by chat.to for now we will skip the date, we will see the date later because when we use the date, formatting is used in the date so we will deal with that later for now we will focus only on our strings this is our from, this is our chat, this is our message and this is our to and this is our div, we can give a class to every div which is going to be chat and this message we will give a style not so much extreme, but very basic style so we can add this message in a div and when we add this message in div, we can give a class to this div which says message we can call it message box, chat box, anything we can call it chat, we call it message so this is our for loop, now we have to keep it in EJS format first we have to paste it here, for EJS we have to write less than percentage and we will write less than percentage and percentage greater than, we will save it we will send a request here, refresh the chat so we have all the chats, how are all the chats coming? this is our first chat, which has from, message and received by this is also from, message and received by this is also from, message and received by but it is not clear that it is a chat, we have strings so we will add formatting in it, first of all we will add a simple HR tag in every div so that it gets separated from all the lines now it looks like individual chat boxes to add some styling, we will come to index.js and here we can create a CSS file to create a CSS file, we have to create a folder in Mongo3 which we will name public, in public folder we can attach CSS and JS files and send it with our templates so here we will create a new file, which we will name style.css and style.css has some basic styles which we are going to add first we will give a background color to our chat so we will give a background color to our chat, let's give it Alice blue so we will save it and refresh it, now this style.css is not connected with our index.ejs, so to make a connection here we will give a link, relation is equal to style sheet and here we will put style.css in href in fact, we will save and refresh it now to attach this styling, we have to go to index.js and here we will do app.use express and here we will tell you where our static files are going to be so to serve them we will write path.join our directory name and it will be served from our public folder so we will save it and refresh, as we refresh it, our blue color will hide here so our WhatsApp will look like blue and our message will go inside style.css so we will give a message block message div we will give it a background color let's give it a background color of Dodger blue save it, refresh it so this is our message and we will give it a white color for its text refresh, so this is our message so we will leave the boxes first of all we will give a margin our body, we will give a margin from left which is going to be 20 pixels refresh, it came a little left our chat, we will give it a padding we will give 20 pixels, save and refresh so individual, its padding is added around 16 pixels, we will keep 16 pixels so it came a little curved, it is not seen clearly with a white background, but if you do it once on your system it will be clearly seen, and also because we don't have such big messages, we have such a big chat box so we will give its display inline block so first save and refresh, our inline is locked so this is our first chat, second chat, third chat, fourth chat, fifth chat so we have different chats, once in index.ej here after every div, we will add a next line in fact we will add two next lines, save and refresh so in the next line, all our chats will come in a line wise format we can keep our format different we can create cards in the standard size so in the standard size, we can put a circular image and we can also put a circular image in the received by which is shown on facebook, instagram but we will not go into details, because we are talking about html cases because I know that this chat will not look aesthetically pleasing our design is not that good, because we are focusing on our back end databases so this is our proper syntax of chat in which our chats are we can add padding in our message, let's give it a padding of 5 pixels and 15 pixels, and also we will give it a border radius save and refresh so our chat will be shown in this way so now from where we got this message we also know who received this message so we can write it in italic or bold so let's go to index.edges and here we will write the chat from same thing for 2 so here also we will add our italic tag and refresh save and refresh so this is from Rohit, received by Mohit from Amit, received by Sumit and you can create chats with any random messages which will initialize the database basically we have completed the route in which all the chats are shown now let's move to our next route"
+}

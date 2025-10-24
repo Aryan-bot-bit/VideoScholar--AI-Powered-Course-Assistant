@@ -1,0 +1,845 @@
+{
+  "chunks": [
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 0.0,
+      "end": 2.0,
+      "text": " This is our random middleware."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 2.0,
+      "end": 4.0,
+      "text": " This middleware is not doing any special work."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 4.0,
+      "end": 6.0,
+      "text": " We will create a useful middleware for ourselves."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 6.0,
+      "end": 8.0,
+      "text": " This middleware will act as our logger."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 8.0,
+      "end": 10.0,
+      "text": " Loggers are a part of programming."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 10.0,
+      "end": 12.0,
+      "text": " Logs are the part of our functionality"
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 12.0,
+      "end": 14.0,
+      "text": " which helps us to log things."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 14.0,
+      "end": 16.0,
+      "text": " Logging means printing useful information on the console."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 16.0,
+      "end": 18.0,
+      "text": " Or our loggers help us to print on our terminal."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 18.0,
+      "end": 20.0,
+      "text": " When we talk about express, useful information can be"
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 20.0,
+      "end": 22.0,
+      "text": " We have a lot of requests."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 22.0,
+      "end": 24.0,
+      "text": " So every request will be associated with the method of request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 24.0,
+      "end": 26.0,
+      "text": " Whether we have a get request, post request, put request, delete request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 26.0,
+      "end": 28.0,
+      "text": " We may want to know that internally."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 28.0,
+      "end": 30.0,
+      "text": " In fact, when we do real life programming,"
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 30.0,
+      "end": 32.0,
+      "text": " we have a logger file with every project"
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 32.0,
+      "end": 34.0,
+      "text": " which logs the time of request and method."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 34.0,
+      "end": 36.0,
+      "text": " So we can print the method of request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 36.0,
+      "end": 38.0,
+      "text": " When the response is sent, we can print the response."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 38.0,
+      "end": 40.0,
+      "text": " So basically, when did the request and response come?"
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 40.0,
+      "end": 42.0,
+      "text": " We can judge the server's latency"
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 42.0,
+      "end": 44.0,
+      "text": " in sending and sending requests."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 44.0,
+      "end": 46.0,
+      "text": " Or what is the host's name?"
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 46.0,
+      "end": 48.0,
+      "text": " We can log or print the related information."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 48.0,
+      "end": 50.0,
+      "text": " So to create our utility middleware,"
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 50.0,
+      "end": 52.0,
+      "text": " we will comment out."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 52.0,
+      "end": 54.0,
+      "text": " And here we will write app.use."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 54.0,
+      "end": 56.0,
+      "text": " And here we will make our logger."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 56.0,
+      "end": 58.0,
+      "text": " And here we will make our response."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 58.0,
+      "end": 60.0,
+      "text": " And what we will do is, we will first print our object"
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 60.0,
+      "end": 62.0,
+      "text": " console.log request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 62.0,
+      "end": 64.0,
+      "text": " And as soon as the request is printed, we will go to next."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 64.0,
+      "end": 66.0,
+      "text": " So we will do save, refresh."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 66.0,
+      "end": 68.0,
+      "text": " So our entire request object is printed."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 68.0,
+      "end": 70.0,
+      "text": " And when we analyze the object, there are many parameters"
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 70.0,
+      "end": 72.0,
+      "text": " and many related information."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 72.0,
+      "end": 74.0,
+      "text": " Now we know where the request was sent."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 74.0,
+      "end": 76.0,
+      "text": " So we can print the path name."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 76.0,
+      "end": 78.0,
+      "text": " So first of all, we will print the method of request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 78.0,
+      "end": 80.0,
+      "text": " So we can write request.method."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 80.0,
+      "end": 82.0,
+      "text": " In fact, let's clear the screen first."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 82.0,
+      "end": 84.0,
+      "text": " And this time we will refresh."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 84.0,
+      "end": 86.0,
+      "text": " And what we can do is, we can paste our own path"
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 86.0,
+      "end": 88.0,
+      "text": " and send a request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 88.0,
+      "end": 90.0,
+      "text": " Hi, I am Root came to our response."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 90.0,
+      "end": 92.0,
+      "text": " And here it was printed that we have sent a request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 92.0,
+      "end": 94.0,
+      "text": " We can send a post request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 94.0,
+      "end": 96.0,
+      "text": " But here our request method is printed."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 96.0,
+      "end": 98.0,
+      "text": " We can send a patch request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 98.0,
+      "end": 100.0,
+      "text": " Obviously 404 came, but here we have a patch."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 100.0,
+      "end": 102.0,
+      "text": " So we can print the method that we are using."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 102.0,
+      "end": 104.0,
+      "text": " And we can also print the host name."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 104.0,
+      "end": 106.0,
+      "text": " Save the name."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 106.0,
+      "end": 108.0,
+      "text": " And if we send a patch request again, it will be sent."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 108.0,
+      "end": 110.0,
+      "text": " And if we send a patch request, we are sending it to a local host."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 110.0,
+      "end": 112.0,
+      "text": " If we send a get request, then it will also come."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 112.0,
+      "end": 114.0,
+      "text": " And we can also print our path."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 114.0,
+      "end": 116.0,
+      "text": " So we can print our path with request.pathname."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 116.0,
+      "end": 118.0,
+      "text": " Now with request, we can explore the different parameters."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 118.0,
+      "end": 120.0,
+      "text": " We will go to the express documentation."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 120.0,
+      "end": 122.0,
+      "text": " We will go to API reference."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 122.0,
+      "end": 124.0,
+      "text": " Now there are many different parameters in the request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 124.0,
+      "end": 126.0,
+      "text": " Like request.hostname, we have origin url, request.path, request.query."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 126.0,
+      "end": 128.0,
+      "text": " So we will get a lot of information like this."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 128.0,
+      "end": 130.0,
+      "text": " Here we send get request to root."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 130.0,
+      "end": 132.0,
+      "text": " So get localhost undefined came to us."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 132.0,
+      "end": 134.0,
+      "text": " Undefined came because path name is not here."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 134.0,
+      "end": 136.0,
+      "text": " So this time get localhost slash."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 136.0,
+      "end": 138.0,
+      "text": " If we send a request to slash random, then get localhost slash random."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 138.0,
+      "end": 140.0,
+      "text": " We can manipulate this request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 140.0,
+      "end": 142.0,
+      "text": " So middleware has the authority to add new things in the request object."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 142.0,
+      "end": 144.0,
+      "text": " Or we can manipulate the request object."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 144.0,
+      "end": 146.0,
+      "text": " So we will add a new parameter in the request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 146.0,
+      "end": 148.0,
+      "text": " We will call it response time."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 148.0,
+      "end": 150.0,
+      "text": " Instead of response time, we will call it time."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 150.0,
+      "end": 152.0,
+      "text": " So we will write date.now."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 152.0,
+      "end": 154.0,
+      "text": " So we will take save."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 154.0,
+      "end": 156.0,
+      "text": " And here we will print the time of the request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 156.0,
+      "end": 158.0,
+      "text": " So we will take save and send."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 158.0,
+      "end": 160.0,
+      "text": " So time as a function."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 160.0,
+      "end": 162.0,
+      "text": " Normally send came to us on the random page."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 162.0,
+      "end": 164.0,
+      "text": " So this time is printed in a different format."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 164.0,
+      "end": 166.0,
+      "text": " If we want to print our proper time, we can come in a readable format."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 166.0,
+      "end": 168.0,
+      "text": " So we can write a format like this."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 168.0,
+      "end": 170.0,
+      "text": " So we can call it date.now."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 170.0,
+      "end": 172.0,
+      "text": " So we can return the exact time of date."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 172.0,
+      "end": 174.0,
+      "text": " So we can use date.now for the exact time we want in JavaScript."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 174.0,
+      "end": 176.0,
+      "text": " We can wrap it inside a new date object."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 176.0,
+      "end": 178.0,
+      "text": " And call it .toString."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 178.0,
+      "end": 180.0,
+      "text": " So a new date will be created in the correct format."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 180.0,
+      "end": 182.0,
+      "text": " And it will be converted to string and printed in the form of string."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 182.0,
+      "end": 184.0,
+      "text": " So you can test it out on your own system."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 184.0,
+      "end": 186.0,
+      "text": " But we have created a utility for ourselves."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 186.0,
+      "end": 188.0,
+      "text": " Now we have a special thing."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 188.0,
+      "end": 190.0,
+      "text": " This is our middleware."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 190.0,
+      "end": 192.0,
+      "text": " Let's suppose we have written it in slash and slash random."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 192.0,
+      "end": 194.0,
+      "text": " Let's clear the screen a little."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 194.0,
+      "end": 196.0,
+      "text": " We have our routes."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 196.0,
+      "end": 198.0,
+      "text": " So we have sent some requests."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 198.0,
+      "end": 200.0,
+      "text": " But this time nothing will be printed in the console."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 200.0,
+      "end": 202.0,
+      "text": " Because once the request came and matched with slash random, the response went back."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 202.0,
+      "end": 204.0,
+      "text": " Now our code has no access to requests and response."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 204.0,
+      "end": 206.0,
+      "text": " So this middleware function will not work."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 206.0,
+      "end": 208.0,
+      "text": " So middleware will work only when it can access the middleware before sending the response."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 208.0,
+      "end": 210.0,
+      "text": " So we don't take middleware at the end."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 210.0,
+      "end": 212.0,
+      "text": " Generally we write middleware at the start of the code."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 212.0,
+      "end": 214.0,
+      "text": " If we want to execute it for every request."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 214.0,
+      "end": 216.0,
+      "text": " So we don't have to mistake that we have written middleware at the end."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 216.0,
+      "end": 218.0,
+      "text": " So basically middleware will not go."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 218.0,
+      "end": 220.0,
+      "text": " So we have to execute middleware."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 220.0,
+      "end": 222.0,
+      "text": " So after sending the request, middleware should be taken up logically."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 222.0,
+      "end": 224.0,
+      "text": " And after that our ending response should go from us."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 224.0,
+      "end": 226.0,
+      "text": " So we have many NPM packages like this."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 226.0,
+      "end": 228.0,
+      "text": " Which are already existing and are trying to execute the same thing here."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 228.0,
+      "end": 230.0,
+      "text": " One of them is called Morgan."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 230.0,
+      "end": 232.0,
+      "text": " Which I have shown you in the documentation."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 232.0,
+      "end": 234.0,
+      "text": " Which can be used in 5-6 middleware engine."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 234.0,
+      "end": 236.0,
+      "text": " And Morgan does this kind of work."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 236.0,
+      "end": 238.0,
+      "text": " If you use Morgan, it will print your request method, hostname, path."
+    },
+    {
+      "number": "p1.mp4",
+      "title": "50 #p1.mp4",
+      "start": 238.0,
+      "end": 240.0,
+      "text": " So we have built this version of this method."
+    }
+  ],
+  "text": " This is our random middleware. This middleware is not doing any special work. We will create a useful middleware for ourselves. This middleware will act as our logger. Loggers are a part of programming. Logs are the part of our functionality which helps us to log things. Logging means printing useful information on the console. Or our loggers help us to print on our terminal. When we talk about express, useful information can be We have a lot of requests. So every request will be associated with the method of request. Whether we have a get request, post request, put request, delete request. We may want to know that internally. In fact, when we do real life programming, we have a logger file with every project which logs the time of request and method. So we can print the method of request. When the response is sent, we can print the response. So basically, when did the request and response come? We can judge the server's latency in sending and sending requests. Or what is the host's name? We can log or print the related information. So to create our utility middleware, we will comment out. And here we will write app.use. And here we will make our logger. And here we will make our response. And what we will do is, we will first print our object console.log request. And as soon as the request is printed, we will go to next. So we will do save, refresh. So our entire request object is printed. And when we analyze the object, there are many parameters and many related information. Now we know where the request was sent. So we can print the path name. So first of all, we will print the method of request. So we can write request.method. In fact, let's clear the screen first. And this time we will refresh. And what we can do is, we can paste our own path and send a request. Hi, I am Root came to our response. And here it was printed that we have sent a request. We can send a post request. But here our request method is printed. We can send a patch request. Obviously 404 came, but here we have a patch. So we can print the method that we are using. And we can also print the host name. Save the name. And if we send a patch request again, it will be sent. And if we send a patch request, we are sending it to a local host. If we send a get request, then it will also come. And we can also print our path. So we can print our path with request.pathname. Now with request, we can explore the different parameters. We will go to the express documentation. We will go to API reference. Now there are many different parameters in the request. Like request.hostname, we have origin url, request.path, request.query. So we will get a lot of information like this. Here we send get request to root. So get localhost undefined came to us. Undefined came because path name is not here. So this time get localhost slash. If we send a request to slash random, then get localhost slash random. We can manipulate this request. So middleware has the authority to add new things in the request object. Or we can manipulate the request object. So we will add a new parameter in the request. We will call it response time. Instead of response time, we will call it time. So we will write date.now. So we will take save. And here we will print the time of the request. So we will take save and send. So time as a function. Normally send came to us on the random page. So this time is printed in a different format. If we want to print our proper time, we can come in a readable format. So we can write a format like this. So we can call it date.now. So we can return the exact time of date. So we can use date.now for the exact time we want in JavaScript. We can wrap it inside a new date object. And call it .toString. So a new date will be created in the correct format. And it will be converted to string and printed in the form of string. So you can test it out on your own system. But we have created a utility for ourselves. Now we have a special thing. This is our middleware. Let's suppose we have written it in slash and slash random. Let's clear the screen a little. We have our routes. So we have sent some requests. But this time nothing will be printed in the console. Because once the request came and matched with slash random, the response went back. Now our code has no access to requests and response. So this middleware function will not work. So middleware will work only when it can access the middleware before sending the response. So we don't take middleware at the end. Generally we write middleware at the start of the code. If we want to execute it for every request. So we don't have to mistake that we have written middleware at the end. So basically middleware will not go. So we have to execute middleware. So after sending the request, middleware should be taken up logically. And after that our ending response should go from us. So we have many NPM packages like this. Which are already existing and are trying to execute the same thing here. One of them is called Morgan. Which I have shown you in the documentation. Which can be used in 5-6 middleware engine. And Morgan does this kind of work. If you use Morgan, it will print your request method, hostname, path. So we have built this version of this method."
+}
